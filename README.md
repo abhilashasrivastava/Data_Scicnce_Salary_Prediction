@@ -1,4 +1,4 @@
-# Data_Scicnce_Salary_Prediction
+# Data_Science_Salary_Prediction
 Data Science Job Salaries Dataset contains 11 columns, each are:
 
 work_year: The year the salary was paid.
